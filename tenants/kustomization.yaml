@@ -2,6 +2,5 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 resources:
   - tenant1.yaml
-  - tenant2.yaml
   - tenant3.yaml
   

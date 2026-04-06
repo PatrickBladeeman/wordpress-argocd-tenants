@@ -1,6 +1,0 @@
-apiVersion: platformapi.kubeplus/v1alpha1
-kind: GitopsWPService
-metadata:
-  name: wp-tenant2
-spec:
-  resourceName: wp-for-tenant2
